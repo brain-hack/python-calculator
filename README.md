@@ -17,7 +17,7 @@
     git clone https://github.com/brain-hack/shortenURL.git
 
 ### install dependency
-    pip install -r requiremnts.txt
+    pip install -r requirements.txt
 
 ## run app
     uvicorn main:app --reload
